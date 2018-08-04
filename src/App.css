@@ -1,10 +1,23 @@
-#title {
+.title {
+ 
   width: 50%;
   /* text-align: center; */
-  margin-bottom: 50px;
+  text-shadow: 3px 2px 4px rgba(137, 132, 123, 0.72);
+  font-family: 'Wallpoet', cursive;
 }
 
 span{
-  width: 50%;
+  width: 30%;
   float: right;
+  font-size: 25px;
+  font-family: 'Wallpoet', cursive;
+  text-shadow: 3px 1px 2px rgba(137, 132, 123, 0.72);
+}
+
+#headline{
+  box-shadow: 2px 2px 5px 4px rgba(143, 141, 141, 0.449);
+}
+
+#top{
+  margin-top: 50px;
 }
